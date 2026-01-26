@@ -1,36 +1,27 @@
 {
-    "CONTACT": [
-        ["S", "Size"],
-        ["A", "Activity"],
-        ["L", "Location"],
-        ["U", "Unit"],
-        ["T", "Time"],
-        ["E", "Equipment"]
+    "KOD": [
+        ["Kierunek", "Kierunek"],
+        ["Opis", "Opis"],
+        ["Dystans", "Dystans"]
     ],
-    "SITREP": [
-        ["Location", "Location"],
-        ["Status", "Status"],
-        ["Strength", "Strength"],
-        ["Tasks", "Tasks"],
-        ["Needs", "Needs"]
+    "SALTR": [
+        ["Wielkość", "Wielkość"],
+        ["Aktywność", "Aktywność"],
+        ["Lokalizacja", "Lokalizacja"],
+        ["Czas", "Czas"],
+        ["Odpowiedź", "Odpowiedź"]
     ],
-    "MEDEVAC": [
-        ["Mechanism", "Mechanism"],
-        ["Injuries", "Injuries"],
-        ["Status", "Status"],
-        ["Location", "Location"]
+    "SALUTE": [
+        ["Wielkość", "Wielkość"],
+        ["Aktywność", "Aktywność"],
+        ["Lokalizacja Własna", "Lokalizacja Własna"],
+        ["Lokalizacja Przeciwnika", "Lokalizacja Przeciwnika"],
+        ["Oznakowanie", "Oznakowanie"],
+        ["Czas", "Czas"],
+        ["Wyposarzenie", "Wyposarzenie"]
     ],
-    "ORDER": [
-        ["Task", "Task"],
-        ["Location", "Location"],
-        ["Time", "Time"],
-        ["Condition", "Condition"]
-    ],
-    "LOST_COMMS": [
-        ["LastContact", "Last contact time"],
-        ["LastLocation", "Last location"],
-        ["Unit", "Unit"]
-    ],
-    "INFO": [["Description", "Description"]],
-    "OTHER": [["Description", "Description"]]
+    "Zdarzenie/Inny": [
+      ["Opis", "Opis"],
+      ["Treść", "Treść"]
+    ]
 }

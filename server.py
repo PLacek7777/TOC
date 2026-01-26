@@ -31,7 +31,7 @@ def read_logs():
             try:
                 r["dane"] = json.loads(r["dane"])
             except:
-                r["dane"] = {"INFO": "Stary wpis"}
+                r["dane"] = {"INFO": "Błąd wpisu"}
             rows.append(r)
     return rows
 
