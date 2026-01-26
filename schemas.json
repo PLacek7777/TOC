@@ -1,0 +1,36 @@
+{
+    "CONTACT": [
+        ["S", "Size"],
+        ["A", "Activity"],
+        ["L", "Location"],
+        ["U", "Unit"],
+        ["T", "Time"],
+        ["E", "Equipment"]
+    ],
+    "SITREP": [
+        ["Location", "Location"],
+        ["Status", "Status"],
+        ["Strength", "Strength"],
+        ["Tasks", "Tasks"],
+        ["Needs", "Needs"]
+    ],
+    "MEDEVAC": [
+        ["Mechanism", "Mechanism"],
+        ["Injuries", "Injuries"],
+        ["Status", "Status"],
+        ["Location", "Location"]
+    ],
+    "ORDER": [
+        ["Task", "Task"],
+        ["Location", "Location"],
+        ["Time", "Time"],
+        ["Condition", "Condition"]
+    ],
+    "LOST_COMMS": [
+        ["LastContact", "Last contact time"],
+        ["LastLocation", "Last location"],
+        ["Unit", "Unit"]
+    ],
+    "INFO": [["Description", "Description"]],
+    "OTHER": [["Description", "Description"]]
+}

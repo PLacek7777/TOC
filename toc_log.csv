@@ -1,0 +1,7 @@
+czas,jednostka,typ,dane
+26-01 20:47,ALFA-1,MEDEVAC,"{""Mechanism"": ""fire"", ""Injuries"": ""leg"", ""Status"": ""amputated"", ""Location"": ""yo mama""}"
+26-01 20:55,BRAVO-2,ORDER,"{""Task"": ""buy cigaretss"", ""Location"": ""biedra"", ""Time"": ""now"", ""Condition"": ""-""}"
+26-01 21:14,,INFO,"{""D"": ""test2""}"
+26-01 21:15,BRAVO-2,INFO,"{""D"": """"}"
+26-01 21:16,CHARLIE-3,ORDER,"{""Task"": ""srednie rollo misiany misiany"", ""Location"": ""sk kebab"", ""Time"": ""now"", ""Condition"": """"}"
+26-01 21:54,,INFO,"{""Description"": ""test czy sie nie zwija""}"
